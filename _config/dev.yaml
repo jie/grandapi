@@ -1,0 +1,14 @@
+server:
+    port: 8080
+    debug: false
+
+database:
+    name: mysql
+    conn: xxx
+
+redis:
+    host: 127.0.0.1
+    port: 6379
+    db: 9
+    timeout: 10
+
